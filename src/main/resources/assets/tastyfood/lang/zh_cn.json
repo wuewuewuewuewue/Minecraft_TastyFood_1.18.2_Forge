@@ -1,0 +1,14 @@
+{
+  "item.tastyfood.snow":"雪",
+  "item.tastyfood.sauce":"酱料",
+  "item.tastyfood.flour":"面粉",
+  "item.tastyfood.noodles":"面条",
+  "item.tastyfood.sauce_noodles":"酱料面",
+  "item.tastyfood.sauce_carrot":"酱萝卜",
+  "item.tastyfood.welcome_wine":"迎宾酒",
+  "item.tastyfood.tasty_iron_sword":"美味的铁剑",
+  "item.tastyfood.tasty_golden_sword":"美味的金剑",
+  "item.tastyfood.tasty_diamond_sword":"美味的钻石剑",
+  "item.tastyfood.tasty_netherite_sword":"美味的下届合金剑",
+  "itemGroup.tastyfoodtab": "美味的食物"
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "X#X",
+    "XXX"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:netherite_sword"
+    },
+    "X": {
+      "item": "tastyfood:sauce"
+    }
+  },
+  "result": {
+    "item": "tastyfood:tasty_netherite_sword"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "tastyfood:snow"
+    },
+    "title": "初雪",
+    "description": "是雪罢",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "background": "tastyfood:textures/item/a.png"
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tastyfood:snow"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

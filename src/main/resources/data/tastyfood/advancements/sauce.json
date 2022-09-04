@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "item": "tastyfood:sauce"
+    },
+    "title": "美味的酱料",
+    "description": "非常的新鲜,非常的美味",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "tastyfood:tastyfood",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "tastyfood:sauce"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

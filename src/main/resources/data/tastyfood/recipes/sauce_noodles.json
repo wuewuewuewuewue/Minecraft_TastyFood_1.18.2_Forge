@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#X"
+  ],
+  "key": {
+    "#": {
+      "item": "tastyfood:sauce"
+    },
+    "X": {
+      "item": "tastyfood:noodles"
+    }
+  },
+  "result": {
+    "item": "tastyfood:sauce_noodles"
+  }
+}

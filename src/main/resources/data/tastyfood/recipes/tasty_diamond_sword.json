@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:diamond_sword"
+    },
+    "X": {
+      "item": "tastyfood:sauce"
+    }
+  },
+  "result": {
+    "item": "tastyfood:tasty_diamond_sword"
+  }
+}

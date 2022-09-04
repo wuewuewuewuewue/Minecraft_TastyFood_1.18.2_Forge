@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "tastyfood:item/tasty_iron_sword"
+  }
+}

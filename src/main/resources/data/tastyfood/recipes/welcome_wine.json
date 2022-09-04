@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:glass_bottle"
+    },
+    "X": {
+      "item": "tastyfood:sauce"
+    }
+  },
+  "result": {
+    "item": "tastyfood:welcome_wine"
+  }
+}
